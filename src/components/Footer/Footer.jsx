@@ -22,7 +22,7 @@ const Footer = () => {
     
                     <h2 class="mt-4 text-lg font-medium text-white">Email</h2>
                     <p class="mt-2 text-white">Our friendly team is here to help.</p>
-                    <p class="mt-2 text-blue-500 dark:text-blue-400">hello@merakiui.com</p>
+                    <p class="mt-2 text-blue-500 dark:text-blue-400">alamgirkabirbulbul@gmaiil.com</p>
                 </div>
     
                 <div class="flex flex-col items-center justify-center text-center">
@@ -35,7 +35,7 @@ const Footer = () => {
                     
                     <h2 class="mt-4 text-lg font-medium  dark:text-white text-white">Office</h2>
                     <p class="mt-2  text-white">Come say hello at our office HQ.</p>
-                    <p class="mt-2 text-blue-500 dark:text-blue-400">100 Smith Street Collingwood VIC 3066 AU</p>
+                    <p class="mt-2 text-blue-500 dark:text-blue-400">Kumri Khal par,Sonkorpur Union,Jhikorgacha,Jashore</p>
                 </div>
     
                 <div class="flex flex-col items-center justify-center text-center">
@@ -45,9 +45,9 @@ const Footer = () => {
                         </svg>
                     </span>
                     
-                    <h2 class="mt-4 text-lg font-medium text-white">Phone</h2>
-                    <p class="mt-2 text-white">Mon-Fri from 8am to 5pm.</p>
-                    <p class="mt-2 text-blue-500 dark:text-blue-400">+1 (555) 000-0000</p>
+                    <h2 class="mt-4 text-lg font-medium text-white">Phone Number</h2>
+                    <p class="mt-2 text-white">Always Ready To Help You</p>
+                    <p class="mt-2 text-blue-500 dark:text-blue-400">01715-276149</p>
                 </div>
             </div>
         </div>

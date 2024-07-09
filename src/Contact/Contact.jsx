@@ -7,7 +7,7 @@ const Contact = () => {
         <Nav></Nav>
         <div className="card lg:card-side bg-base-100 shadow-xl ">
   <figure>
-    <img className="h-[500px]"
+    <img className="h-[500px] border rounded-s-full"
       src="public/owner.jpg"
       alt="Album" />
   </figure>
@@ -18,7 +18,7 @@ const Contact = () => {
     </h2>
     
     <div className="card-actions justify-end text-green-600 text-3xl ">
-      <marquee>প্রয়োজনে মোবাইল অথবা ই-মেইল করুন</marquee>
+      <marquee className="mt-10">প্রয়োজনে মোবাইল অথবা ই-মেইল করুন</marquee>
     </div>
   </div>
 </div>

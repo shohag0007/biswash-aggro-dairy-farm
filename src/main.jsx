@@ -13,6 +13,7 @@ import Home from './components/Home/Home.jsx';
 import About from './About/About.jsx';
 import Contact from './Contact/Contact.jsx';
 import SellItems from './SellItems/SellItems.jsx';
+import Visitors from './components/Visitors/Visitors.jsx';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -35,6 +36,11 @@ const router = createBrowserRouter([
      {
       path: "/sellItems",
       element: <SellItems></SellItems>,
+     },
+     {
+      path: "/visitors",
+      element: <Visitors></Visitors>,
+      
      }
 
     
