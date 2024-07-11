@@ -9,7 +9,7 @@ const Visitors = () => {
             <figure>
                 
                 <img className="border-l-fuchsia-900 rounded-3xl"
-                    src="public/visitors.jpg"
+                    src="/visitors.jpg"
                     alt="Album" />
                
             </figure>

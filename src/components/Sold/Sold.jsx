@@ -7,9 +7,9 @@ const Sold = () => {
         <Nav></Nav>
         <div className="grid gap-4  pl-10 md:grid-cols-2 lg:flex">
       
-           <img className="w-[560px] h-[315px]"  src="public/s1.jpg"/>
+           <img className="w-[560px] h-[315px]"  src="/s1.jpg"/>
          <div>
-         <img className="w-[560px] h-[315px]" src="public/s2.jpg"/>
+         <img className="w-[560px] h-[315px]" src="/s2.jpg"/>
          </div>
             </div>
 
@@ -20,7 +20,7 @@ const Sold = () => {
        <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
            
        
-          <img src="public/s5.jpg"/>
+          <img src="/s5.jpg"/>
        
           
        </div>
@@ -28,7 +28,7 @@ const Sold = () => {
        <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
            
        
-          <img src="public/s4.jpg"/>
+          <img src="/s4.jpg"/>
        
           
        </div>
@@ -36,24 +36,24 @@ const Sold = () => {
        <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
           
        
-          <img src="public/s3.jpg"/>
+          <img src="/s3.jpg"/>
        
           
        </div>
        
        
-       
-       <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
-           
-          <img src="public/s2.jpg"/>
-       
-          
-       </div>
        
        <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
            
+          <img src="/s2.jpg"/>
        
-          <img src="public/s1.jpg"/>
+          
+       </div>
+       
+       <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
+           
+       
+          <img src="/s1.jpg"/>
        
            <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                

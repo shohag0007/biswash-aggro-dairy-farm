@@ -8,7 +8,7 @@ const Team = () => {
 
         <div className="grid gap-8 mt-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             <div className="w-full max-w-xs text-center">
-                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" className="rounded-full" src="/public/owner.jpg" alt="avatar" />
+                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" className="rounded-full" src="/owner.jpg" alt="avatar" />
 
                 <div className="mt-2">
                     <h3 className="text-lg font-medium text-gray-700 dark:text-gray-200">AK BulBul</h3>
@@ -19,7 +19,7 @@ const Team = () => {
             </div>
 
             <div className="w-full max-w-xs text-center">
-                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" className="rounded-full"  src="public/miluvai.jpg" alt="image" />
+                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" className="rounded-full"  src="/miluvai.jpg" alt="image" />
 
                 <div className="mt-2">
                     <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Md Saiful Islam Milu</h3>
