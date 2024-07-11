@@ -14,6 +14,7 @@ import About from './About/About.jsx';
 import Contact from './Contact/Contact.jsx';
 import SellItems from './SellItems/SellItems.jsx';
 import Visitors from './components/Visitors/Visitors.jsx';
+import Sold from './components/Sold/Sold.jsx';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -36,6 +37,11 @@ const router = createBrowserRouter([
      {
       path: "/sellItems",
       element: <SellItems></SellItems>,
+     },
+
+     {
+      path: "/alreadySold",
+      element: <Sold></Sold>,
      },
      {
       path: "/visitors",

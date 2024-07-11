@@ -5,6 +5,7 @@ const About = () => {
     return (
         <>
         <Nav></Nav>
+       
         
         <div className=" grid md:grid-cols-2 lg:grid-cols-4 gap-2 m-4">
        
@@ -24,8 +25,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">পুষ্টি উপাদান সমৃদ্ধ খাবার</h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">আমরা গরুগুলাকে পুষ্টি গুনে সমৃদ্ধ খাবার খাওয়াই। </p>
     </div>
 
    <img src="public/b2.jpg"/>
@@ -38,8 +39,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">খাবার খাওয়ার চিত্র</h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">প্রতিদিন রুটিন অনুযায়ী গরুদের খাবার দেওয়া হয়।</p>
     </div>
 
    <img src="public/b8.jpg"/>
@@ -52,8 +53,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">খাবারের গোডাউন</h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">আমাদের গোডাউনে সবসময় আমারা খাবার মজুত রাখি।</p>
     </div>
 
    <img src="public/b1.jpg"/>
@@ -66,8 +67,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">বিশ্বাস এগ্রো ফার্ম </h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">বিশ্বাস এগ্রো ফার্ম এর প্রাকৃতিক দৃশ্য।</p>
     </div>
 
    <img src="public/b13.jpg"/>
@@ -80,8 +81,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">ঘাসের প্রোজেক্ট</h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400"> বিশ্বাস এগ্রো ফার্ম এর নিজস্ব ঘাস প্রোজেক্ট এর চিত্র।</p>
     </div>
 
    <img src="public/grass1.jpg"/>
@@ -94,8 +95,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">বকনা গরু</h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">ষাঁড় গাভী এবং বকনা আলাদা আলাদা ভাবে রাখা হয়।</p>
     </div>
 
    <img src="public/b17.jpg"/>
@@ -108,8 +109,8 @@ const About = () => {
 
 <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
     <div class="px-4 py-2">
-        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">NIKE AIR</h1>
-        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+        <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">ষাঁড়</h1>
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">বিশাস এগ্রো ফার্ম এর বিক্রির জন্য প্রস্তুত ষাঁড় গুলো।</p>
     </div>
 
    <img src="public/b6.jpg"/>
